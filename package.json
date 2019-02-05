@@ -3,6 +3,16 @@
   "displayName": "Emoji Snippets",
   "description": "Insert emoji to your Vscode files",
   "version": "1.0.0",
+  "homepage": "https://github.com/Devzstudio/Vscode-Emoji-Snippets/blob/master/README.md",
+  "icon": "icon.png",
+  "bugs": {
+    "url": "https://github.com/Devzstudio/Vscode-Emoji-Snippets/issues",
+    "email": "jijin@devzstudio.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Devzstudio/Vscode-Emoji-Snippets"
+  },
   "engines": {
     "vscode": "^1.30.0"
   },
