@@ -1,4 +1,4 @@
-# emoji-snippets README
+# Emoji-Snippets 
 
 Emoji Snippets helps developers to insert emoji on their files. You can use these emoji in PHP,HTML,JS,CSS and more 😎
 
