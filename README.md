@@ -13,12 +13,19 @@ For example if want to insert happy emoji just type :happy
 ## Emojis 😍
 
 Smileys & People : https://emojipedia.org/people/
+
 Animals & Nature : https://emojipedia.org/nature/
+
 Foor & Drink     : https://emojipedia.org/food-drink/
+
 Activity         : https://emojipedia.org/activity/
+
 Travel & Places  : https://emojipedia.org/travel-places/
+
 Objects          : https://emojipedia.org/objects/
+
 Symbols          : https://emojipedia.org/symbols/
+
 Flags            : https://emojipedia.org/flags/
 
 ## Usage 📝
