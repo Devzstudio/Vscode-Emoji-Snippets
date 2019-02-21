@@ -2,6 +2,11 @@
 
 Emoji Snippets helps developers to insert emoji on their files. You can use these emoji in PHP,HTML,JS,CSS,React and more 😎
 
+# Usage
+
+You can download extension from https://marketplace.visualstudio.com/items?itemName=devzstudio.emoji-snippets 
+or Open Visual Code -> Exntesions -> Search for emoji snippets -> Install
+
 ## Features 
 
 Simple, Easy to use extension 🚀
