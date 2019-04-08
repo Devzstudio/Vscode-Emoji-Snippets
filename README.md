@@ -1,6 +1,6 @@
 # Emoji-Snippets 🥰
 
-Emoji Snippets helps developers to insert emoji on their files. You can use these emoji in PHP,HTML,JS,CSS,React and more 😎
+Emoji Snippets helps developers to insert emoji on their files. You can use these emoji in PHP,HTML,JS,CSS,React and more !!! 😎
 
 [![VSCode EmojiSnippets Downloads](https://shields-staging.herokuapp.com/vscode-marketplace/v/devzstudio.emoji-snippets.svg)](https://marketplace.visualstudio.com/items?itemName=devzstudio.emoji-snippets)
 [![VSCode EmojiSnippets Downloads](https://img.shields.io/vscode-marketplace/d/devzstudio.emoji-snippets.svg)](https://marketplace.visualstudio.com/items?itemName=devzstudio.emoji-snippets)
