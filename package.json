@@ -1,87 +1,87 @@
 {
-  "name": "emoji-snippets",
-  "displayName": "Emoji Snippets",
-  "description": "Insert emoji to your Vscode files",
-  "version": "1.1.0",
-  "publisher": "devzstudio",
-  "homepage": "https://github.com/Devzstudio/Vscode-Emoji-Snippets/blob/master/README.md",
-  "icon": "icon.png",
-  "bugs": {
-    "url": "https://github.com/Devzstudio/Vscode-Emoji-Snippets/issues",
-    "email": "jijin@devzstudio.com"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/Devzstudio/Vscode-Emoji-Snippets"
-  },
-  "engines": {
-    "vscode": "^1.30.0"
-  },
-  "categories": [
-    "Snippets"
-  ],
-  "contributes": {
-    "snippets": [
-      {
-        "language": "php",
-        "path": "./snippets/snippets.json"
-      },
-      {
-        "language": "html",
-        "path": "./snippets/snippets.json"
-      },
-      {
-        "language": "javascript",
-        "path": "./snippets/snippets.json"
-      },
-      {
-        "language": "javascriptreact",
-        "path": "./snippets/snippets.json"
-      },
-      {
-        "language": "css",
-        "path": "./snippets/snippets.json"
-      },
-      {
-        "language": "git-commit",
-        "path": "./snippets/snippets.json"
-      },
-      {
-        "language": "go",
-        "path": "./snippets/snippets.json"
-      },
-      {
-        "language": "java",
-        "path": "./snippets/snippets.json"
-      },
-      {
-        "language": "markdown",
-        "path": "./snippets/snippets.json"
-      },
-      {
-        "language": "jade",
-        "path": "./snippets/snippets.json"
-      },
-      {
-        "language": "python",
-        "path": "./snippets/snippets.json"
-      },
-      {
-        "language": "scss",
-        "path": "./snippets/snippets.json"
-      },
-      {
-        "language": "typescript",
-        "path": "./snippets/snippets.json"
-      },
-      {
-        "language": "vb",
-        "path": "./snippets/snippets.json"
-      },
-      {
-        "language": "xml",
-        "path": "./snippets/snippets.json"
-      }
-    ]
-  }
+	"name": "emoji-snippets",
+	"displayName": "Emoji Snippets",
+	"description": "Insert emoji to your Vscode files",
+	"version": "1.1.0",
+	"publisher": "devzstudio",
+	"homepage": "https://github.com/Devzstudio/Vscode-Emoji-Snippets/blob/master/README.md",
+	"icon": "icon.png",
+	"bugs": {
+		"url": "https://github.com/Devzstudio/Vscode-Emoji-Snippets/issues",
+		"email": "jijin@devzstudio.com"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/Devzstudio/Vscode-Emoji-Snippets"
+	},
+	"engines": {
+		"vscode": "^1.30.0"
+	},
+	"categories": [
+		"Snippets"
+	],
+	"contributes": {
+		"snippets": [
+			{
+				"language": "php",
+				"path": "./snippets/snippets.json"
+			},
+			{
+				"language": "html",
+				"path": "./snippets/snippets.json"
+			},
+			{
+				"language": "javascript",
+				"path": "./snippets/snippets.json"
+			},
+			{
+				"language": "javascriptreact",
+				"path": "./snippets/snippets.json"
+			},
+			{
+				"language": "css",
+				"path": "./snippets/snippets.json"
+			},
+			{
+				"language": "git-commit",
+				"path": "./snippets/snippets.json"
+			},
+			{
+				"language": "go",
+				"path": "./snippets/snippets.json"
+			},
+			{
+				"language": "java",
+				"path": "./snippets/snippets.json"
+			},
+			{
+				"language": "markdown",
+				"path": "./snippets/snippets.json"
+			},
+			{
+				"language": "jade",
+				"path": "./snippets/snippets.json"
+			},
+			{
+				"language": "python",
+				"path": "./snippets/snippets.json"
+			},
+			{
+				"language": "scss",
+				"path": "./snippets/snippets.json"
+			},
+			{
+				"language": "typescript",
+				"path": "./snippets/snippets.json"
+			},
+			{
+				"language": "vb",
+				"path": "./snippets/snippets.json"
+			},
+			{
+				"language": "xml",
+				"path": "./snippets/snippets.json"
+			}
+		]
+	}
 }
