@@ -1,6 +1,18 @@
-# Emoji-Snippets 🥰
+# Emoji-Snippets 🚀
 
-Emoji Snippets helps developers to insert emoji on their files. You can use these emoji in PHP,HTML,JS,CSS and more 😎
+Emoji Snippets helps developers to insert emoji on their files. You can use these emoji in PHP,HTML,JS,CSS,React and more !!! 😎
+
+[![VSCode EmojiSnippets Downloads](https://shields-staging.herokuapp.com/vscode-marketplace/v/devzstudio.emoji-snippets.svg)](https://marketplace.visualstudio.com/items?itemName=devzstudio.emoji-snippets)
+[![VSCode EmojiSnippets Downloads](https://img.shields.io/vscode-marketplace/d/devzstudio.emoji-snippets.svg)](https://marketplace.visualstudio.com/items?itemName=devzstudio.emoji-snippets)
+
+😀 😃 😄 😁 😆 😅 🤣 😂 🙂 🙃 😉 😊 😇 🥰 😍 🤩 😘 😗 😚 😙 😋 😛 😜 🤪 😝 🤑 🤗 🤭 🤫 🤔 🤐 🤨 😐 😑 😶 😏 😒 🙄 😬 🤥 😌 😔 😪 🤤 😴 😷 🤒 🤕 🤢 🤮 🤧 🥵 🥶 🥴 😵 🤯 🤠 🥳 😎 🤓 🧐 😕 😟 🙁 😮 😯 😲 😳 🥺 😦 😧 😨 😰 😥 😢 😭 😱 😖 😣 😞 😓 😩 😫 😤 😡 😠 🤬 😈 👿
+
+[![Vscode Emoji Snippets](https://github.com/Devzstudio/Vscode-Emoji-Snippets//blob/master/preview.png?raw=true 'Vscode Emoji Snippets')]()
+
+# Usage
+
+You can download extension from https://marketplace.visualstudio.com/items?itemName=devzstudio.emoji-snippets
+or Open Visual Code -> Exntesions -> Search for emoji snippets -> Install
 
 ## Features
 
@@ -34,6 +46,10 @@ Start typing with : followed by emoji name. eg :fire
 You can find the name of emoji from Emojipedia.org
 
 ## Changelog
+
+### 1.1.0
+
+Vuejs Support
 
 ### 1.0.0
 

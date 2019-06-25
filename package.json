@@ -3,7 +3,6 @@
 	"displayName": "Emoji Snippets",
 	"description": "Insert emoji to your Vscode files",
 	"version": "1.1.0",
-	"publisher": "devzstudio",
 	"homepage": "https://github.com/Devzstudio/Vscode-Emoji-Snippets/blob/master/README.md",
 	"icon": "icon.png",
 	"bugs": {
@@ -80,6 +79,10 @@
 			},
 			{
 				"language": "xml",
+				"path": "./snippets/snippets.json"
+			},
+			{
+				"language": "vue",
 				"path": "./snippets/snippets.json"
 			}
 		]
