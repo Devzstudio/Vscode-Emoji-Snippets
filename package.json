@@ -75,6 +75,10 @@
 				"path": "./snippets/snippets.json"
 			},
 			{
+				"language": "typescriptreact",
+				"path": "./snippets/snippets.json"
+			},
+			{
 				"language": "vb",
 				"path": "./snippets/snippets.json"
 			},
