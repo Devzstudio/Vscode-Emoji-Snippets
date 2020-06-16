@@ -6,10 +6,13 @@ Emoji Snippets helps developers to insert emoji on their files. You can use thes
 
 [![Vscode Emoji Snippets](https://github.com/Devzstudio/Vscode-Emoji-Snippets//blob/master/preview.png?raw=true 'Vscode Emoji Snippets')]()
 
-# Usage
+## Usage 📝
 
 You can download extension from https://marketplace.visualstudio.com/items?itemName=devzstudio.emoji-snippets
-or Open Visual Code -> Exntesions -> Search for emoji snippets -> Install
+or Open Visual Code -> Extensions -> Search for emoji snippets -> Install
+
+Start typing with : followed by emoji name. eg :fire
+You can find the name of emoji from Emojipedia.org
 
 ## Features
 
@@ -36,11 +39,6 @@ Objects : https://emojipedia.org/objects/
 Symbols : https://emojipedia.org/symbols/
 
 Flags : https://emojipedia.org/flags/
-
-## Usage 📝
-
-Start typing with : followed by emoji name. eg :fire
-You can find the name of emoji from Emojipedia.org
 
 ## Changelog
 
