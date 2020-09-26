@@ -42,6 +42,10 @@ Flags : https://emojipedia.org/flags/
 
 ## Changelog
 
+### 1.1.1
+
+Show emoji in snippet/autocomplete description.
+
 ### 1.1.0
 
 Vuejs Support
