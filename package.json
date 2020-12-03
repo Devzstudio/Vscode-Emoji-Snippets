@@ -89,6 +89,10 @@
 			{
 				"language": "vue",
 				"path": "./snippets/snippets.json"
+			},
+			{
+				"language": "asciidoc",
+				"path": "./snippets/snippets.json"
 			}
 		]
 	}
